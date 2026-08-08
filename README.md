@@ -10,11 +10,13 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,4 +25,8 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
