@@ -41,6 +41,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
