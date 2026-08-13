@@ -18,6 +18,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0414-third-maximum-number) |
 ## Binary Search
@@ -46,4 +47,12 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
