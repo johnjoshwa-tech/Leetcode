@@ -6,6 +6,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0125-valid-palindrome) |
 ## String
@@ -42,6 +43,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
