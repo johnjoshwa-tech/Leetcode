@@ -21,6 +21,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0014-longest-common-prefix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0414-third-maximum-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -54,6 +55,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
 ## Matrix
 |  |
 | ------- |
@@ -62,4 +64,24 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
