@@ -23,6 +23,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | ------- |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
 ## Linked List
 |  |
 | ------- |
@@ -84,4 +86,8 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
