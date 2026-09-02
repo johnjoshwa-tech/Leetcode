@@ -23,6 +23,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0414-third-maximum-number) |
+| [0419-battleships-in-a-board](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -62,6 +63,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
+| [0419-battleships-in-a-board](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0419-battleships-in-a-board) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +92,8 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0419-battleships-in-a-board](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->
