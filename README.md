@@ -9,6 +9,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0061-rotate-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
@@ -30,6 +32,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,4 +99,16 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0419-battleships-in-a-board) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
