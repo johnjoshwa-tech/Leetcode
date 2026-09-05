@@ -9,6 +9,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0061-rotate-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -22,6 +23,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0014-longest-common-prefix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0414-third-maximum-number) |
@@ -62,6 +64,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
 ## Matrix
 |  |
