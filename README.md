@@ -10,6 +10,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0061-rotate-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## String
@@ -42,6 +43,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0148-sort-list) |
 ## Trie
 |  |
 | ------- |
@@ -50,6 +52,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
 ## Linked List
@@ -59,6 +62,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0021-merge-two-sorted-lists](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +122,8 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
