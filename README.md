@@ -33,6 +33,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0419-battleships-in-a-board](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
+| [0682-baseball-game](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0682-baseball-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -126,4 +127,12 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
