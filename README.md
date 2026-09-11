@@ -34,6 +34,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0485-max-consecutive-ones](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0682-baseball-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -82,11 +84,13 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 ## Hash Table
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
