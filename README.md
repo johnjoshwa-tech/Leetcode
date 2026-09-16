@@ -19,6 +19,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0008-string-to-integer-atoi](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0125-valid-palindrome) |
+| [0500-keyboard-row](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0500-keyboard-row) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0414-third-maximum-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0682-baseball-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -84,6 +86,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 ## Hash Table
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0500-keyboard-row) |
 | [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
