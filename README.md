@@ -36,6 +36,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0500-keyboard-row](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0682-baseball-game) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -87,6 +88,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0500-keyboard-row) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Enumeration
@@ -126,6 +128,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
