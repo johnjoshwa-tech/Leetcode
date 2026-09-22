@@ -36,6 +36,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0500-keyboard-row](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/johnjoshwa-tech/Leetcode/tree/master/1051-height-checker) |
 | [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -86,6 +87,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | ------- |
 | [0048-rotate-image](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0048-rotate-image) |
 | [0419-battleships-in-a-board](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0419-battleships-in-a-board) |
+| [0867-transpose-matrix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0867-transpose-matrix) |
 ## Counting Sort
 |  |
 | ------- |
