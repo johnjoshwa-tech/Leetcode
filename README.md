@@ -39,6 +39,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0867-transpose-matrix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/johnjoshwa-tech/Leetcode/tree/master/1051-height-checker) |
+| [2239-find-closest-number-to-zero](https://github.com/johnjoshwa-tech/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
