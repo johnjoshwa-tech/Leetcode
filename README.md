@@ -101,6 +101,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | ------- |
 | [0204-count-primes](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -129,6 +130,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -159,4 +161,8 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/johnjoshwa-tech/Leetcode/tree/master/1051-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
