@@ -18,6 +18,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0500-keyboard-row) |
 ## Array
@@ -147,6 +148,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -165,4 +167,8 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
