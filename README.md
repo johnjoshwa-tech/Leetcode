@@ -10,6 +10,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0061-rotate-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +75,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 | [0021-merge-two-sorted-lists](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
@@ -95,6 +97,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0500-keyboard-row](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0500-keyboard-row) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/johnjoshwa-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -142,6 +145,7 @@ LeetCode solutions in Java with clean, optimized, and well-structured code. Docu
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/johnjoshwa-tech/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
